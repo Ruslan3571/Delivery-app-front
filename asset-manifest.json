@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Delivery-app-front/static/css/main.d88f26fc.css",
+    "main.js": "/Delivery-app-front/static/js/main.5be93282.js",
+    "static/media/remixicon.svg?t=1684338274817": "/Delivery-app-front/static/media/remixicon.ce0e40c97bfc62e3edab.svg",
+    "static/media/remixicon.eot?t=1684338274817": "/Delivery-app-front/static/media/remixicon.4504b1fe216fbf391c33.eot",
+    "static/media/remixicon.ttf?t=1684338274817": "/Delivery-app-front/static/media/remixicon.bc494a3a1aebeea65cee.ttf",
+    "static/media/product_3.1.jpg": "/Delivery-app-front/static/media/product_3.1.9c207cdf68c9700b11ce.jpg",
+    "static/media/product_2.2.jpg": "/Delivery-app-front/static/media/product_2.2.4967c9cbe3fec366a31a.jpg",
+    "static/media/product_4.2.jpg": "/Delivery-app-front/static/media/product_4.2.e82e43e0a3fc5dab999e.jpg",
+    "static/media/product_4.1.jpg": "/Delivery-app-front/static/media/product_4.1.3c8ecc492220a3922731.jpg",
+    "static/media/product_3.2.jpg": "/Delivery-app-front/static/media/product_3.2.ebcb16b50e4ef0060a5e.jpg",
+    "static/media/product_2.1.jpg": "/Delivery-app-front/static/media/product_2.1.f15385546f60c8d0f0d9.jpg",
+    "static/media/remixicon.woff?t=1684338274817": "/Delivery-app-front/static/media/remixicon.d7630016bbb194055f32.woff",
+    "static/media/product_01.jpg": "/Delivery-app-front/static/media/product_01.6be97a612b580d595585.jpg",
+    "static/media/product_04.jpg": "/Delivery-app-front/static/media/product_04.f7c5294d0481fb12cc4c.jpg",
+    "static/media/remixicon.woff2?t=1684338274817": "/Delivery-app-front/static/media/remixicon.082b68b860510f7036f0.woff2",
+    "static/media/product_08.jpg": "/Delivery-app-front/static/media/product_08.efc6c71968cf3ffe817a.jpg",
+    "static/media/bread(2).png": "/Delivery-app-front/static/media/bread(2).dd485726262fc6f94474.png",
+    "static/media/bread(3).png": "/Delivery-app-front/static/media/bread(3).e4b9fdd91579778ae4cc.png",
+    "static/media/bread(1).png": "/Delivery-app-front/static/media/bread(1).2fbb5c91c696e21efcb6.png",
+    "index.html": "/Delivery-app-front/index.html",
+    "main.d88f26fc.css.map": "/Delivery-app-front/static/css/main.d88f26fc.css.map",
+    "main.5be93282.js.map": "/Delivery-app-front/static/js/main.5be93282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d88f26fc.css",
+    "static/js/main.5be93282.js"
+  ]
+}

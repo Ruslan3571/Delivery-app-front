@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Delivery-app-front/static/css/main.d88f26fc.css",
-    "main.js": "/Delivery-app-front/static/js/main.5be93282.js",
+    "main.js": "/Delivery-app-front/static/js/main.88fa6fae.js",
     "static/media/remixicon.svg?t=1684338274817": "/Delivery-app-front/static/media/remixicon.ce0e40c97bfc62e3edab.svg",
     "static/media/remixicon.eot?t=1684338274817": "/Delivery-app-front/static/media/remixicon.4504b1fe216fbf391c33.eot",
     "static/media/remixicon.ttf?t=1684338274817": "/Delivery-app-front/static/media/remixicon.bc494a3a1aebeea65cee.ttf",
@@ -21,10 +21,10 @@
     "static/media/bread(1).png": "/Delivery-app-front/static/media/bread(1).2fbb5c91c696e21efcb6.png",
     "index.html": "/Delivery-app-front/index.html",
     "main.d88f26fc.css.map": "/Delivery-app-front/static/css/main.d88f26fc.css.map",
-    "main.5be93282.js.map": "/Delivery-app-front/static/js/main.5be93282.js.map"
+    "main.88fa6fae.js.map": "/Delivery-app-front/static/js/main.88fa6fae.js.map"
   },
   "entrypoints": [
     "static/css/main.d88f26fc.css",
-    "static/js/main.5be93282.js"
+    "static/js/main.88fa6fae.js"
   ]
 }
